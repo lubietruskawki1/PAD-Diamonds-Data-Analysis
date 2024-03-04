@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+seaborn
+sklearn
+statsmodels
+plotly
+streamlit
+streamlit_option_menu
+ipykernel
